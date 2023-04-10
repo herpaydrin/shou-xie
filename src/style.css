@@ -1,0 +1,216 @@
+/* 冬日的初舞 */
+@font-face {
+  font-family: "dongridechuwu"; 
+  src: url("./assets/dongridechuwu.ttf") format("trueType");
+}
+/* 沐浴风雨中 */
+@font-face {
+  font-family: "muyufengyuzhong";
+  src: url("./assets/muyufengyuzhong.ttf") format("trueType");
+}
+/* 偏偏相逢在雨中 */
+@font-face {
+  font-family: "pianpianxiangfengzaiyuzhongziti";
+  src: url("./assets/pianpianxiangfengzaiyuzhongziti.ttf") format("trueType");
+}
+
+/* 晴空暖阳奶酪 */
+@font-face {
+  font-family: "qingkongnuanyangnailaoti";
+  src: url("./assets/qingkongnuanyangnailaoti.ttf") format("trueType");
+}
+
+/* 让孤独用琴键代替 */
+@font-face {
+  font-family: "rangguduyongqinjiandaiti";
+  src: url("./assets/rangguduyongqinjiandaiti.ttf") format("trueType");
+}
+
+/* 人间梦游随性 */
+@font-face {
+  font-family: "renjianmengyousuixingtiziti";
+  src: url("./assets/renjianmengyousuixingtiziti.ttf") format("trueType");
+}
+
+/* 人间奶酪便利店 */
+@font-face {
+  font-family: "renjiannailaobianlidian";
+  src: url("./assets/renjiannailaobianlidian.ttf") format("trueType");
+}
+
+/* 日系可爱情书 */
+@font-face {
+  font-family: "rixikeaiqingshuti";
+  src: url("./assets/rixikeaiqingshuti.ttf") format("trueType");
+}
+
+/* 三极幽兰体 */
+@font-face {
+  font-family: "sanjiyoulanti";
+  src: url("./assets/sanjiyoulanti.ttf") format("trueType");
+}
+/* 贪吃的小柯基 */
+@font-face {
+  font-family: "tanchidexiaokeji";
+  src: url("./assets/tanchidexiaokeji.ttf") format("trueType");
+}
+
+/* 相爱却不能在一起 */
+@font-face {
+  font-family: "xiangaiquebunengzaiyiqiziti";
+  src: url("./assets/xiangaiquebunengzaiyiqiziti.ttf") format("trueType");
+}
+
+/* 想做你的繁花似锦 */
+@font-face {
+  font-family: "xiangzuonidefanhuasijinziti";
+  src: url("./assets/xiangzuonidefanhuasijinziti.ttf") format("trueType");
+}
+/* 星辰为聘桃花定情 */
+@font-face {
+  font-family: "xingchenweipintaohuadingqing";
+  src: url("./assets/xingchenweipintaohuadingqing.ttf") format("trueType");
+}
+/* 星星私藏宇宙 */
+@font-face {
+  font-family: "xingxingsicangyuzhou";
+  src: url("./assets/xingxingsicangyuzhou.ttf") format("trueType");
+}
+
+/* 星夜温柔宇宙浪漫 */
+@font-face {
+  font-family: "xingyewenrouyuzhoulangman";
+  src: url("./assets/xingyewenrouyuzhoulangman.ttf") format("trueType");
+}
+/* 也字工厂清朗瘦金 */
+@font-face {
+  font-family: "yezigongchangqinglangshoujinti";
+  src: url("./assets/yezigongchangqinglangshoujinti.ttf") format("trueType");
+}
+/* 三极钟云毓秀行楷 */
+@font-face {
+  font-family: "sanjizhongyunliuxiuxingkai";
+  src: url("./assets/sanjizhongyunliuxiuxingkai.ttf") format("trueType");
+}
+
+/* 极字经典行草简繁 */
+@font-face {
+  font-family: "jizijingdianxingcao";
+  src: url("./assets/jizijingdianxingcao.ttf") format("trueType");
+}
+/* 樱花十里不如你 */
+@font-face {
+  font-family: "yinhuashiliburuni";
+  src: url("./assets/yinhuashiliburuni.ttf") format("trueType");
+}
+/* 忽而深秋落叶间 */
+@font-face {
+  font-family: "huershenqiuluoyejian";
+  src: url("./assets/huershenqiuluoyejian.ttf") format("trueType");
+}
+/* 你是悬在我心间的月 */
+@font-face {
+  font-family: "nishixuanzaiwoxinjiandeyue";
+  src: url("./assets/nishixuanzaiwoxinjiandeyue.ttf") format("trueType");
+}
+/* 陪你追日落看星星 */
+@font-face {
+  font-family: "peinizuiriluokanxingxing";
+  src: url("./assets/peinizuiriluokanxingxing.ttf") format("trueType");
+}
+/* 偷偷看你一秒 */
+@font-face {
+  font-family: "toutoukanniyimiao";
+  src: url("./assets/toutoukanniyimiao.ttf") format("trueType");
+}
+/* 三极吴峰行楷 */
+@font-face {
+  font-family: "sanjiwufengxingkai";
+  src: url("./assets/sanjiwufengxingkai.ttf") format("trueType");
+}
+/* 秋日纷至沓来 */
+@font-face {
+  font-family: "qiurifenzhitalai";
+  src: url("./assets/qiurifenzhitalai.ttf") format("trueType");
+}
+/* 你是我向往的彼方 */
+@font-face {
+  font-family: "nishiwoxiangwangdebifang";
+  src: url("./assets/nishiwoxiangwangdebifang.ttf") format("trueType");
+}
+/* 一叶知秋行楷 */
+@font-face {
+  font-family: "yiyezhiqiuxingkai";
+  src: url("./assets/yiyezhiqiuxingkai.ttf") format("trueType");
+}
+/* 陪你三餐四季 */
+@font-face {
+  font-family: "peinisancansiji";
+  src: url("./assets/peinisancansiji.ttf") format("trueType");
+}
+/* 你是星夜最温柔 */
+@font-face {
+  font-family: "nishixingyezuiwenrou";
+  src: url("./assets/nishixingyezuiwenrou.ttf") format("trueType");
+}/* 蝉鸣的夏季 */
+@font-face {
+  font-family: "canmingdexiaji";
+  src: url("./assets/canmingdexiaji.ttf") format("trueType");
+}
+/* 你是我的可爱宝贝 */
+@font-face {
+  font-family: "nishiwodekeaibaobei";
+  src: url("./assets/nishiwodekeaibaobei.ttf") format("trueType");
+}
+/*  */
+@font-face {
+  font-family: "";
+  src: url("./assets/.ttf") format("trueType");
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  background-color: #ffffff;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
